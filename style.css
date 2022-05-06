@@ -17,13 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #999999;
+    background-color: #212940;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #424a50;
+    background-color: #6E698C;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -42,14 +42,14 @@
 }
 
 .name {
-    color: #D6DBDF;
+    color: #F2ACAC;
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
 }
 
 .profession {
-    color: #eeeeee;
+    color: #BF6D65;
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -57,7 +57,7 @@
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
-    color: #eeeeee;
+    color: #BF6D65;
     font-size: 20px;
 }
 
@@ -68,14 +68,14 @@
 .contact-info ul li,
 .references ul li {
     padding: .4rem 0;
-    color: #eeeeee;
+    color: #F2ACAC;
 }
 
 .contact-info ul li i,
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
-    color: #eeeeee;
+    color: #F2ACAC;
 }
 
 .skills ul {
@@ -83,7 +83,7 @@
 }
 .skills ul li p {
     padding: .4rem 0;
-    color: #eeeeee;
+    color: #F2ACAC;
 }
 
 .right-section-contents {
@@ -91,7 +91,7 @@
 }
 
 .right-title {
-    color: #eeeeee;
+    color: #212940;
 }
 
 .gap {
@@ -119,7 +119,7 @@
 }
 
 .exp-time-period,
-.educationp-time-period,
+.education-time-period,
 .awards-time-period {
     font-size: 18px;
 }
